@@ -2,7 +2,7 @@
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/8zCRmK80/Atnnews.jpg",ATN News
 http://cdn01.palki.tv/live/ATNNews-M/index.m3u8
-#EXTINF:-2 tvg-id="55" tvg-logo="https://pcdn1.jagobd.com/images/s-c6jtv81652599210003.jpg" group-title="Music",ATN MUSIC
+#EXTINF:-2  group-title="Bangladeshi"tvg-id="55" tvg-logo="https://pcdn1.jagobd.com/images/s-c6jtv81652599210003.jpg",ATN MUSIC
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/live-orgin/atnmusic.stream/chunks.m3u8
 #EXTINF:-3 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/MnQK7Gt/IMG-20240129-063323.png",Asian TV
 http://cdn01.palki.tv/live/AsianTV-M/index.m3u8
@@ -16,7 +16,7 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:-8 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/tPSbC6D/IMG-20240126-092155.png",Channel i
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/chunks.m3u8
-#EXTINF:-9 group-title="News"tvg-logo="https://i.ibb.co/JBPFpf1/IMG-20240126-085138.jpg",Channel24
+#EXTINF:-9 group-title="Bangladeshi"tvg-logo="https://i.ibb.co/JBPFpf1/IMG-20240126-085138.jpg",Channel24
 http://cdn01.palki.tv/live/Channel24-M/index.m3u8
 #EXTINF:-10 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/TPKM7Mg/IMG-20240126-113602.png" ,Colors Bangla HD
 https://bongohub.pw/api/bdsajib/bioscope.m3u8?id=colors-bangla
@@ -32,9 +32,9 @@ https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 https://dplus.gammacdn.workers.dev/videos/113.m3u8
 #EXTINF:-16 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/KxVDb6d/Desh-tv-logo.jpg",Desh TV
 http://195.26.87.217/live.ts?channelId=93&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-17 group-title="ISLAMIC"tvg-logo="https://i.ibb.co/GprTxvx/IMG-20240126-102504.jpg",DEEN TV
+#EXTINF:-17 group-title="Bangladeshi"tvg-logo="https://i.ibb.co/GprTxvx/IMG-20240126-102504.jpg",DEEN TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deentv.stream/chunks.m3u8
-#EXTINF:-18  group-title="News"tvg-logo="https://i.ibb.co/W5cP3KT/IMG-20240126-084224.png",Ekattor TV HD
+#EXTINF:-18  group-title="Bangladeshi"tvg-logo="https://i.ibb.co/W5cP3KT/IMG-20240126-084224.png",Ekattor TV HD
 https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
 #EXTINF:-19 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/BwMpnr3/IMG-20240129-063118.jpg",Ekhon Tv
 http://livess.jagobd.com.bd/live-orgin/globaltv.stream/chunks.m3u8
